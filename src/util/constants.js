@@ -1,0 +1,10 @@
+export const PAYMENT_TYPES = {
+  CREDIT_CARD: 'CREDIT_CARD',
+  DEFAULT: 'DEFAULT'
+}
+
+export const INVOICE_STATUS = {
+  OPENED: 'OPENED',
+  CLOSED: 'CLOSED',
+  PAID: 'PAID'
+}
